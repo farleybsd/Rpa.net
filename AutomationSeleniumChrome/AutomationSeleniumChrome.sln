@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34902.65
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomationSeleniumChrome", "AutomationSeleniumChrome.csproj", "{0C3337FB-9991-45E5-97E0-1E57E7454AB6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EayAutomation.Robot", "..\EayAutomation.Robot\EayAutomation.Robot.csproj", "{AEDD4FBE-0326-45DC-ABDE-DE7193F2E50E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{0C3337FB-9991-45E5-97E0-1E57E7454AB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C3337FB-9991-45E5-97E0-1E57E7454AB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C3337FB-9991-45E5-97E0-1E57E7454AB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEDD4FBE-0326-45DC-ABDE-DE7193F2E50E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEDD4FBE-0326-45DC-ABDE-DE7193F2E50E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEDD4FBE-0326-45DC-ABDE-DE7193F2E50E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEDD4FBE-0326-45DC-ABDE-DE7193F2E50E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
